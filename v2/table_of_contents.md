@@ -8,11 +8,11 @@ Table of Contents – Co-Design Toolkit Guide
 ### ii.	Researchers
 ## b.	Prepping your mindset - Nkiruka
 # III.	Planning the Research Study
-## a.	Who’s who
-### i.	Roles
-#### 1.	Notetaking
-## b.	Designing good prompts
-## c.	Expectations of children
+## a.	Who’s who - Amy
+### i.	Roles - Amy
+#### 1.	Notetaking - Amy 
+## b.	Designing good prompts - Amy
+## c.	Expectations of children - Amy
 ### i.	They only need to know how to be children
 ## d.	Expectations of adults
 ### i.	You can give ideas
