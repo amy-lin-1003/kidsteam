@@ -2,7 +2,7 @@
 
 1. Greg Walsh, PhD
 2. Brittney Spinner  
-3.     
+3. Amy Lin    
 4.       
 5.       
 6.          
