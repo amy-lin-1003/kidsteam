@@ -1,14 +1,14 @@
 **2026 Contributors**
 
 1. Greg Walsh, PhD
-2.   
+2. Brittney Spinner  
 3.     
 4.       
 5.       
 6.          
 7.       
-8. Amy Lin
+8.       
 9.        
 10.       
 11.       
-12.     
+12.  Greg the Example   
